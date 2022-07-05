@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/s/nakhoda", {data:[{}],fetch:{},mutations:[]});
